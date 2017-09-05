@@ -1,8 +1,4 @@
 # TestRepo
 Repository for testing git, bugs, etc.
 
-
-Testing Master Protections.
-
-
-Jorge was here!!
+lets branch and not ruin things
