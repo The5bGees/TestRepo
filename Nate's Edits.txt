@@ -1,1 +1,0 @@
-I managed to create a branch, edit it, check in/check out, push/pull and finally merge.

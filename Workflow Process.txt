@@ -1,0 +1,12 @@
+The project github repository has been protected against 'push' requests to the master branch.
+
+Dev's take the following steps to contribute to the repository
+1)Create a new branch
+2)Make changes on the newly made branch
+3)Can 'push' branch to repo for others to see
+4)Make a 'pull' request to get approval from at least one other member to merge the branch into the master branch
+
+Taking this precaution forces all project developers to make changes in their own branch before requesting a merge.
+
+On the occasion that merge conflicts occur, the person making the pull request must communicate with the author
+of the code currently in conflict, and together they must decide on a conflict resolution plan.
