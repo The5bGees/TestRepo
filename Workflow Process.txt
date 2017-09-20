@@ -1,0 +1,13 @@
+The project github repository has been protected against 'push' requests to the master branch.
+
+In addition to this we will be adopting a few practices to help our workflow.
+
+1) We will create a branch off the master, which will be the 'Development Branch'
+2) Any/All features that need to be implemented will begin as branches off of 'Development Branch'
+3) Once a feature has been successfully implemented AND TESTED the branch owner may make a pull request to merge their feature into 'Development Branch'
+4) The pull request must then be reviewed and approved by TWO other team members before being merged
+5) Additional testing/review will be required before pull requesting the final product to master.
+
+On the occasion that merge conflicts occur, the person making the pull request must attempt to resolve the conflict.  If no safe solution seems viable,
+the person making the request must then contact the author of the previous code and together they must work to resolve the conlict.
+If no agreement is made then a third person will deligate and a majority rule will decide how the conflict will be handled.
