@@ -1,1 +1,3 @@
-Kyle is such a cool kid, he plays dragon age.
+I have linked the TestRepo to the server so that any PUSH to master triggers a server update.
+https://gist.github.com/oodavid/1809044
+note that the user in this case seems to be daemon.  I set up the ssh key to be bitnami's though.
